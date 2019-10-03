@@ -17,8 +17,7 @@ Working on ReactJS stuff.
     and scripts into the app directory. If you do this, you can’t go back!
 
 # We suggest that you begin by typing:
-
-  `cd to-do-list`
-  `npm start`
-
+    cd to-do-list
+    npm start
+    
 # Happy hacking!
