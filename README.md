@@ -18,7 +18,7 @@ Working on ReactJS stuff.
 
 # We suggest that you begin by typing:
 
-  cd to-do-list
-  npm start
+  `cd to-do-list`
+  `npm start`
 
 # Happy hacking!
